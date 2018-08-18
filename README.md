@@ -8,7 +8,7 @@ Simple TodoList API using GoLang.
 
 ## Things to do:
 
- [ ]     Handle request params
- [ ]     Handle error with response message
+- [ ] Handle request params
+- [ ] Handle error with response message
 
 
