@@ -10,5 +10,5 @@ Simple TodoList API using GoLang.
 
 - [ ] Handle request params
 - [ ] Handle error with response message
-
+- [ ] Store in DB
 
